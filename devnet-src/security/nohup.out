@@ -1,0 +1,35 @@
+  File "password-evolution.py", line 12
+    return 'Welcome to the hands-on lab for an evolution of password
+                                                                   ^
+SyntaxError: EOL while scanning string literal
+  File "password-evolution.py", line 12
+    return 'Welcome to the hands-on lab for an evolution of password
+                                                                   ^
+SyntaxError: EOL while scanning string literal
+  File "password-evolution.py", line 12
+    return 'Welcome to the hands-on lab for an evolution of password
+                                                                   ^
+SyntaxError: EOL while scanning string literal
+ * Serving Flask app "password-evolution" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Jan/2022 09:37:19] "[37mGET / HTTP/1.1[0m" 200 -
+  File "password-evolution.py", line 38
+    query = "SELECT PASSWORD FROM USER_PLAIN WHERE USERNAME =
+                                                            ^
+SyntaxError: EOL while scanning string literal
+  File "password-evolution.py", line 38
+    query = "SELECT PASSWORD FROM USER_PLAIN WHERE USERNAME =
+                                                            ^
+SyntaxError: EOL while scanning string literal
+  File "password-evolution.py", line 38
+    query = "SELECT PASSWORD FROM USER_PLAIN WHERE USERNAME =
+                                                            ^
+SyntaxError: EOL while scanning string literal
+  File "password-evolution.py", line 37
+    query = "SELECT PASSWORD FROM USER_PLAIN WHERE USERNAME =
+                                                            ^
+SyntaxError: EOL while scanning string literal
